@@ -109,7 +109,7 @@ section h2 {
     margin: 0 5%;
 }
 
-button {
+button, a {
     display: block;
     width: 100%;
     padding: 8px 0;
@@ -170,3 +170,4 @@ footer li {
 footer li img {
     height: 32px;
 }
+
